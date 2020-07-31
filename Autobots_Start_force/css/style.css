@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+    float: left;
+    list-style: none;
+    margin-top: 30px;
+}
+header li{
+    display: inline;
+}
+header li a{
+    margin: 10px;
+    /* border: 2px solid crimson; */
+    border-radius: 20%;
+    font-size: large;
+    font-family: monospace;
+    text-decoration: none;
+    width: 200px;
+}
+
+body{
+    background-image: linear-gradient(to top, purple ,skyblue);
+    background-repeat: no-repeat;
+}
+
+span{
+    background-image: linear-gradient(to bottom, blue,skyblue);
+    background-repeat: no-repeat;
+}
+.bg{
+    padding: 200px 200px 300px 300px ;
+}
+.bg h1{
+    font-size: 64px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-size: ; */
+    right: 20px;
+    top: 50px;
+    /* background-image: linear-gradient(to top,skyblue,whitesmoke); */
+    /* counter-reset: ; */
+    /* color: turquoise; */
+    color: teal;
+}
+/* .bg h1 p{ */
+    /* left: 1000px; */
+    /* position: relative; */
+.define{      
+    right: 500px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px 20px 30px 30px;
+    font-size: smaller;
+    color: black;
+}
+.button{
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    width: 200px;
+    float: right;
+    padding: 2px;
+    background-image: linear-gradient(to right, blue ,skyblue);
+    cursor: pointer;
+}
+.img{
+    /* padding: 20px; */
+    width: 1300px;
+    height: 150px;
+    float: right;
+    top: 40px;
+    left: 20px;
+}
+.omg{
+    display: block;
+    width: 400px;
+    height: 150px;
+    float: right;
+    bottom: 4000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
